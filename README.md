@@ -121,7 +121,8 @@
 - [UI demo](https://github.com/cocos/cocos-example-ui) - An UI demo showing complex UI usage with different common in-game UI pages.
 
 - [Ball demo](https://github.com/cocos/cocos-example-ball) - A physical jumping ball demo.
-- [81 Demos] (https://github.com/yeshao2069/CocosCreatorDemos) - 81 Demos showing various game mechanics for 2D and 3D
+- [81 Demos](https://github.com/yeshao2069/CocosCreatorDemos) - 81 Demos showing various game mechanics for 2D and 3D
+- [112 Shaders](https://github.com/yeshao2069/CocosCreatorShader) - 112 Cocoscreator shaders showing cocos shader effects
 
 ### Awesome projects(Open source)
 
