@@ -121,6 +121,7 @@
 - [UI demo](https://github.com/cocos/cocos-example-ui) - An UI demo showing complex UI usage with different common in-game UI pages.
 
 - [Ball demo](https://github.com/cocos/cocos-example-ball) - A physical jumping ball demo.
+- [81 Demos] (https://github.com/yeshao2069/CocosCreatorDemos) - 81 Demos showing various game mechanics for 2D and 3D
 
 ### Awesome projects(Open source)
 
