@@ -96,6 +96,12 @@
 
 - [i18n](https://store.cocos.com/app/en/detail/1865) - i18n Extension for Cocos Creator: Implement multilingual internationalization of Label and Sprite components.
 
+#### Telegarm Games
+
+- [CocosCreator With Telegram Game](https://docs.zypher.network/blog/cocos-tg/) - Step by step telegram game publishing with cocos creator
+ 
+- [TON blockchain bindings and utilities for cocos game engines](https://github.com/CocosTechLabs/game-engines-sdk) 
+
 <!-- Please add your tools in corresponding categories or add a new category if they don't seem fit -->
 
 ## Show cases
@@ -121,6 +127,8 @@
 - [UI demo](https://github.com/cocos/cocos-example-ui) - An UI demo showing complex UI usage with different common in-game UI pages.
 
 - [Ball demo](https://github.com/cocos/cocos-example-ball) - A physical jumping ball demo.
+- [81 Demos](https://github.com/yeshao2069/CocosCreatorDemos) - 81 Demos showing various game mechanics for 2D and 3D
+- [112 Shaders](https://github.com/yeshao2069/CocosCreatorShader) - 112 Cocoscreator shaders showing cocos shader effects
 
 ### Awesome projects(Open source)
 
